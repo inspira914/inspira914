@@ -5,11 +5,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🚀 About Me
 
 - 🔭 I’m currently working on improving my skills in full-stack development.
-- 🌱 I’m currently learning Rust and exploring its ecosystem.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Java Spring Boot, Python, and Node.js.
-- 📫 How to reach me: [Email](mailto:tacoassassin148@gmail.com) | [LinkedIn](https://www.linkedin.com/in/assassinrema) | [Twitter](https://twitter.com/assassinrema)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and hiking in my free time.
 
 ## 🛠️ Technologies & Tools
@@ -26,27 +23,5 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 📈 GitHub Stats
-
-![Rema's GitHub stats](https://github-readme-stats.vercel.app/api?username=assassinrema&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=assassinrema&theme=onedark)
-
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assassinrema&layout=compact&theme=radical)
-
-## 📫 Contact Me
-
-Feel free to reach out to me via [email](mailto:tacoassassin148@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/assassinrema). I'm always open to discussing new projects, collaborations, or any exciting opportunities.
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assassinrema)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/assassinrema)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/assassinrema)
 
 Thanks for visiting my profile! Have a great day! 😄
