@@ -1,4 +1,4 @@
-# Hi there, I'm Rema! 👋
+# Hi there 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for coding, learning new technologies, and contributing to open-source projects. Here you'll find a collection of my projects, contributions, and some fun facts about me.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 - 🔭 I’m currently working on improving my skills in full-stack development.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Java Spring Boot, Python, and Node.js, Angular.js, React.js, Next.js, PHP, Laravel.
+- 💬 Ask me about TypeScript, React, Node.js, Next.js, WebRTC, RTSP, WebSocket, Python, Java Spring Boot.
 - ⚡ Fun fact: I love playing chess and hiking in my free time.
 
 ## 🛠️ Technologies & Tools
