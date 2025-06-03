@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 - 🔭 I’m currently working on improving my skills in full-stack development.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about TypeScript, React, Node.js, Next.js, WebRTC, RTSP, WebSocket, Python, Java Spring Boot.
+- 💬 Ask me about TypeScript, React, Node.js, Next.js, WebRTC, RTSP, WebSocket, Angular, PHP, Laravel, Python, Java Spring Boot.
 - ⚡ Fun fact: I love playing chess and hiking in my free time.
 
 ## 🛠️ Technologies & Tools
