@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 - 🔭 I’m currently working on improving my skills in full-stack development.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about TypeScript, React, Node.js, Next.js, WebRTC, RTSP, WebSocket, Angular, PHP, Laravel, Python, Java Spring Boot.
+- 💬 Ask me about TypeScript, React, Node.js, Next.js, Angular, C#, Python, Java Spring Boot.
 - ⚡ Fun fact: I love playing chess and hiking in my free time.
 
 ## 🛠️ Technologies & Tools
@@ -16,12 +16,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
