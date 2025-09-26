@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for coding, learning new technologies, and contributing to open-source projects. Here you'll find a collection of my projects, contributions, and some fun facts about me.
 
+I am working as a senior software engineer in Google Startups.
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on improving my skills in full-stack development.
